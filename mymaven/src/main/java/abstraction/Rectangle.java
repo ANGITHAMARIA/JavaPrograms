@@ -4,7 +4,7 @@ public class Rectangle extends Shape {
 
 	@Override
 	void display() {
-		System.out.println("This is rectangle");		
+		System.out.println("This is rectangle change for branch");		
 	}
 	public static void main(String[] args) 
 	{
