@@ -4,12 +4,12 @@ public class Circle extends Shape {
 
 	@Override
 	void display() {
-		System.out.println("This is circle");
+		System.out.println("This is Circle");
 		
 	}
 	public static void main(String[] args) {
-		Circle d=new Circle();
-		d.display();
+		Circle c=new Circle();
+		c.display();
 	}
 
 }
